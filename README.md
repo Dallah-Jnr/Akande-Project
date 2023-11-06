@@ -23,6 +23,7 @@ You can view the live demo of this project [here](insert-link-to-demo).
 
 - HTML
 - CSS
+- JavaScript
 
 ## Installation
 
