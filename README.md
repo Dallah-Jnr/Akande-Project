@@ -66,7 +66,7 @@ We welcome contributions and bug reports!
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at [murtadhoabdulbasit62@gmail.com].
+If you have any questions or need further assistance, feel free to contact me at murtadhoabdulbasit62@gmail.com.
 
 ---
 
