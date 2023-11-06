@@ -39,7 +39,7 @@ git clone https://github.com/Dallah-Jnr/Webstack---Portfolio-Project.git
 
 2. Locate the `index.html` file, and open it in your web browser to view the website locally.
 
-3. Explore the website to see how HTML and CSS have been used to structure and style the content.
+3. Explore the website to see how HTML, CSS and JavaScript have been used to structure and style the content.
 
 Feel free to modify and experiment with the code to learn more about how HTML and CSS work together to create web pages.
 
