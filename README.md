@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a demonstration of a simple website built using only HTML and CSS. It showcases the use of these core web technologies to create a responsive and visually appealing web page.
+This project is a demonstration of a simple website built using only HTML, CSS and JavaScript. It showcases the use of these core web technologies to create a responsive and visually appealing web page.
 
 ## Table of Contents
 
