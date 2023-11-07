@@ -15,9 +15,8 @@ This project is a demonstration of a simple website built using only HTML, CSS a
 
 ## Demo
 
-You can view the live demo of this project [here](insert-link-to-demo).
+You can view the live demo of this project [here](https://drive.google.com/file/d/1chGL_SSCCz1N1inoUNOwwdvpvbvGhe_Q/view?usp=sharing).
 
-![Project Demo](insert-image-link-here)
 
 ## Technologies Used
 
