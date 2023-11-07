@@ -11,7 +11,6 @@ This project is a demonstration of a simple website built using only HTML, CSS a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -57,11 +56,6 @@ If you want to contribute to this project or report issues, please follow these 
 5. Create a pull request on the original repository.
 
 We welcome contributions and bug reports!
-
-
-## Acknowledgments
-
-- Mention any libraries, resources, or tutorials that you found helpful during this project.
 
 ## Contact
 
